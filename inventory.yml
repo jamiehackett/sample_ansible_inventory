@@ -1,6 +1,7 @@
 ungrouped:
   hosts:
-    mail.example.com:
+    ec2-16-171-231-254.eu-north-1.compute.amazonaws.com:
+      test_var: 'I wonder will this work'
 webservers:
   hosts:
     foo.example.com:
